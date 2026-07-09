@@ -30,9 +30,9 @@ This project is a solution to the [Expense Tracker project on roadmap.sh]https:/
     cd expense-tracker
     ```
 3. Run the application:
-        ```bash
-        python app.py -h
-        ```
+   ```bash
+    python app.py -h
+   ```
 ## 📖 Usage Examples
 
 Here are some common commands to get you started:
@@ -76,9 +76,9 @@ python app.py set_budget --month 8 --amount 1000
 
 📂 Project Structure
 
-app.py: The main entry point handling the Command Line Interface (CLI) user input.
+- `app.py`: The main entry point handling the Command Line Interface (CLI) user input.
 
-expense_manager.py: Contains the business logic and file handling operations (Separation of Concerns).
+- `expense_manager.py`: Contains the business logic and file handling operations (Separation of Concerns).
 
 🤝 Contributing
 
