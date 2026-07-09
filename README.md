@@ -18,7 +18,7 @@ Python 3.x installed on your machine. No external libraries required! This proje
 
 ## 🚀 Installation & Setup
 
-1. Clone the repository to your local machine:
+```1. Clone the repository to your local machine:
 
 	git clone [https://github.com/](https://github.com/)WaritsaraCh/Expense-Tracker.git
 
@@ -28,12 +28,12 @@ Python 3.x installed on your machine. No external libraries required! This proje
 
 3. Run the application:
 
-	python app.py -h
+	python app.py -h```
 
 ## 📖 Usage Examples
 
 Here are some common commands to get you started:
-
+```
 1. Add a new expense:
 
 	python app.py add --description "Lunch" --amount 20
@@ -72,7 +72,7 @@ Here are some common commands to get you started:
 
 	python app.py set_budget --month 8 --amount 1000
 
-(If you add an expense that crosses this budget, the app will display a warning!)
+(If you add an expense that crosses this budget, the app will display a warning!)```
 
 ## 📂 Project Structure
 
