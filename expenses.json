@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "date": "2026-07-09",
+        "description": "Lunch",
+        "amount": 80.0,
+        "category": "food"
+    },
+    {
+        "id": 2,
+        "date": "2026-07-09",
+        "description": "Dinner",
+        "amount": 25.0,
+        "category": "food"
+    },
+    {
+        "id": 3,
+        "date": "2026-07-09",
+        "description": "Test",
+        "amount": 25.0,
+        "category": null
+    },
+    {
+        "id": 4,
+        "date": "2026-07-09",
+        "description": "Lunch",
+        "amount": 80.0,
+        "category": "food"
+    },
+    {
+        "id": 5,
+        "date": "2026-07-09",
+        "description": "Dinner",
+        "amount": 500.0,
+        "category": "food"
+    },
+    {
+        "id": 6,
+        "date": "2026-07-09",
+        "description": "Dinner",
+        "amount": 1200.0,
+        "category": "food"
+    }
+]
