@@ -24,15 +24,15 @@ This project is a solution to the [Expense Tracker project on roadmap.sh]https:/
 1. Clone the repository to your local machine:
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/expense-tracker.git
-
+   ```
 2. Navigate into the project directory:
-
-cd expense-tracker
-
+    ```bash
+    cd expense-tracker
+    ```
 3. Run the application:
-
-python app.py -h
-
+        ```bash
+        python app.py -h
+        ```
 ## 📖 Usage Examples
 
 Here are some common commands to get you started:
