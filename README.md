@@ -2,7 +2,7 @@
 
 A simple and robust command-line application to manage your personal finances. This project allows you to track your expenses, set monthly budgets, and categorize your spending directly from your terminal.
 
-This project is a solution to the [Expense Tracker project on roadmap.sh]https://github.com/WaritsaraCh/Expense-Tracker.git
+This project is a solution to the [Expense Tracker project on roadmap.sh](https://roadmap.sh/projects/expense-tracker)
 
 ## ✨ Features
 
